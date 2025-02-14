@@ -1,0 +1,11 @@
+undetected-chromedriver
+anticaptchaofficial
+setuptools
+pyperclip
+selenium
+requests
+keyboard
+colorama
+pystyle
+schedule
+pytz
